@@ -1,8 +1,10 @@
+node_modules/
+dist/
 build/
-SNSX.iso
-SNSX.img
-myOS.iso
-myOS.img
-iso/boot/kernel.elf
-iso/boot/rootfs.img
-rootfs/bin/*.app
+*.zip
+*.dmg
+*.iso
+*.bin
+*.exe
+*.log
+.env
