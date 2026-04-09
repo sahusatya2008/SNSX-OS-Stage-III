@@ -1,0 +1,8 @@
+build/
+SNSX.iso
+SNSX.img
+myOS.iso
+myOS.img
+iso/boot/kernel.elf
+iso/boot/rootfs.img
+rootfs/bin/*.app
