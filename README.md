@@ -669,4 +669,5 @@ The following now build successfully:
 - `SNSX-VBox-ARM64.iso`
 
 The ARM64 VirtualBox edition was also boot-tested under AArch64 UEFI in QEMU before being handed off as the VirtualBox target.
-# SNSX-OS-Stage-III
+# Developer & Note
+- This OS is entirely built by Satya Narayan Sahu and he fully owns the entire system and prohibits others to cop/modify/commericial use fo the OS without permission
