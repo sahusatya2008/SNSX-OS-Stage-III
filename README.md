@@ -1,4 +1,4 @@
-# SNSX
+# SNSX OS Version 3
 
 `SNSX` now has two bootable editions:
 
